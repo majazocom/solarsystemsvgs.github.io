@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Solen",
+        "path": "<svg width=\"139\" height=\"663\" viewBox=\"0 0 139 663\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0 662.752C85.7905 578.473 139 461.139 139 331.376C139 201.613 85.7905 84.2787 0 0V662.752Z\" fill=\"#D7C41A\"/></svg>"
+    },
+    {
+        "id": 2,
+        "title": "Merkurius",
+        "path": "<svg width=\"38\" height=\"38\" viewBox=\"0 0 38 38\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"19\" cy=\"19\" r=\"19\" fill=\"#9F8585\"/></svg>"
+    },
+    {
+        "id": 3,
+        "title": "Venus",
+        "path": "<svg width=\"59\" height=\"59\" viewBox=\"0 0 59 59\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"29.5\" cy=\"29.5\" r=\"29.5\" fill=\"#D6BBBB\"/></svg>"
+    },
+    {
+        "id": 4,
+        "title": "Jorden",
+        "path": "<svg width=\"59\" height=\"59\" viewBox=\"0 0 59 59\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"29.5\" cy=\"29.5\" r=\"29.5\" fill=\"#BBC6D6\"/></svg>"
+    },
+    {
+        "id": 5,
+        "title": "Mars",
+        "path": "<svg width=\"38\" height=\"38\" viewBox=\"0 0 38 38\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"19\" cy=\"19\" r=\"19\" fill=\"#CB5D5D\"/></svg>"
+    },
+    {
+        "id": 6,
+        "title": "Jupiter",
+        "path": "<svg width=\"256\" height=\"256\" viewBox=\"0 0 256 256\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"128\" cy=\"128\" r=\"128\" fill=\"#DABA7D\"/></svg>"
+    },
+    {
+        "id": 7,
+        "title": "Saturnus",
+        "path": "<svg width=\"326\" height=\"203\" viewBox=\"0 0 326 203\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"162.5\" cy=\"101.5\" r=\"101.5\" fill=\"#D4D69F\"/><ellipse cx=\"162.961\" cy=\"100.704\" rx=\"174.852\" ry=\"13.322\" transform=\"rotate(-26.0306 162.961 100.704)\" fill=\"#DBE9ED\"/></svg>"
+    },
+    {
+        "id": 8,
+        "title": "Uranus",
+        "path": "<svg width=\"116\" height=\"116\" viewBox=\"0 0 116 116\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"58\" cy=\"58\" r=\"58\" fill=\"#CDBBD6\"/></svg>"
+    },
+    {
+        "id": 9,
+        "title": "Neptunus",
+        "path": "<svg width=\"106\" height=\"106\" viewBox=\"0 0 106 106\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"53\" cy=\"53\" r=\"53\" fill=\"#BBBCD6\"/></svg>"
+    }
+]
